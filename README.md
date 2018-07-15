@@ -1,0 +1,2 @@
+# NewsPage
+Responsive Page
